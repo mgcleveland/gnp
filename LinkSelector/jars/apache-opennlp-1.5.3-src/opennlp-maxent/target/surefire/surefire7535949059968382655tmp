@@ -1,0 +1,5 @@
+#surefire
+#Sun Jun 30 20:22:40 EDT 2013
+user.dir=/home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent
+localRepository=/home/ec2-user/.m2/repository
+basedir=/home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent

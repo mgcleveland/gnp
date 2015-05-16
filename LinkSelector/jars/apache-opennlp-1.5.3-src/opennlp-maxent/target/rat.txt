@@ -1,0 +1,154 @@
+
+*****************************************************
+Summary
+-------
+Notes: 1
+Binaries: 3
+Archives: 0
+Standards: 114
+
+Apache Licensed: 114
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/model/IndexHashTableTest.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/perceptron/PerceptronPrepAttachTest.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/maxent/MaxentPrepAttachTest.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/maxent/ScaleDoesntMatterTest.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/maxent/RealValueModelTest.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/maxent/io/RealValueFileEventStreamTest.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/maxent/quasinewton/LineSearchTest.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/maxent/quasinewton/LogLikelihoodFunctionTest.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/maxent/quasinewton/QuadraticFunction.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/maxent/quasinewton/QuadraticFunction02.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/maxent/quasinewton/QNTrainerTest.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/test/java/opennlp/PrepAttachDataUtil.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/TrainUtil.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/EventStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/ObjectDataReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/PlainTextFileDataReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/IndexHashTable.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/OnePassDataIndexer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/SequenceStreamEventStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/Sequence.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/TwoPassDataIndexer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/OnePassRealValueDataIndexer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/DataIndexer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/EventCollectorAsStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/DynamicEvalParameters.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/HashSumEventStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/AbstractDataIndexer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/Context.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/AbstractModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/DataReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/ListEventStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/UniformPrior.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/RealValueFileEventStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/AbstractModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/EvalParameters.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/FileEventStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/MaxentModel.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/Prior.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/AbstractModel.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/ComparableEvent.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/Event.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/MutableContext.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/SequenceStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/EventCollector.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/GenericModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/GenericModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/ComparablePredicate.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/BinaryFileDataReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/model/AbstractEventStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/SimplePerceptronSequenceTrainer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/PlainTextPerceptronModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/PlainTextPerceptronModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/BinaryPerceptronModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/SuffixSensitivePerceptronModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronModel.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/BinaryPerceptronModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/perceptron/PerceptronTrainer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/ContextGenerator.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/DoubleStringPair.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/ModelDomain.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/BasicContextGenerator.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/GISTrainer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/ObjectQNModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/QNModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/PlainTextGISModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/BinaryQNModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/SuffixSensitiveGISModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/SuffixSensitiveGISModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/PlainTextGISModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/BinaryGISModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/QNModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/BinToAscii.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/OldFormatGISModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/BinaryGISModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/ObjectQNModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/BinaryQNModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/GISModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/package.html
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/GISModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/ObjectGISModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/PooledGISModelReader.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/io/ObjectGISModelWriter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/Counter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/DomainToModelMap.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/GISModel.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/BinToAscii.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/Evalable.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/ModelSetter.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/ModelApplier.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/GIS.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/package.html
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/IntegerPool.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/Main.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/ModelTrainer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/GISFormat
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/TrainEval.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/RealBasicEventStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/PlainTextByLineDataStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/quasinewton/LineSearch.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/quasinewton/LogLikelihoodFunction.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/quasinewton/DifferentiableFunction.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/quasinewton/Function.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/quasinewton/LineSearchResult.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/quasinewton/QNTrainer.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/quasinewton/ArrayMath.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/quasinewton/QNModel.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/ModelReplacementManager.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/DataStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/src/main/java/opennlp/maxent/BasicEventStream.java
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/samples/sports/Predict.java
+  B     /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/samples/sports/realTeam.dat
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/samples/sports/CreateModel.java
+  N     /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/samples/sports/README
+  B     /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/samples/sports/gameLocation.dat
+  B     /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/samples/sports/football.dat
+  AL    /home/ec2-user/LinkSelector/jars/apache-opennlp-1.5.3-src/opennlp-maxent/pom.xml
+ 
+ *****************************************************
+ Printing headers for files without AL header...
+ 
+ 

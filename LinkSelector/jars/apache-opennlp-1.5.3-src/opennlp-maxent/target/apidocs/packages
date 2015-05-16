@@ -1,0 +1,5 @@
+opennlp.model
+opennlp.perceptron
+opennlp.maxent
+opennlp.maxent.io
+opennlp.maxent.quasinewton
